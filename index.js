@@ -317,4 +317,4 @@ SvgUri.propTypes = {
   fillAll: PropTypes.bool
 }
 
-module.exports = SvgUri;
+export default SvgUri;
